@@ -9,6 +9,7 @@ var gulp = require("gulp"),
     babel = require('gulp-babel'),
     concat = require('gulp-concat'),
     livereload = require('gulp-livereload'),
+    removeUseStrict = require("gulp-remove-use-strict");
     es2015 = require('babel-preset-es2015'),
     sourcemaps = require('gulp-sourcemaps'),
     clean = require('gulp-clean');
@@ -21,6 +22,7 @@ gulp.task('transpile', function() {
             presets: [es2015]
         }))
         .pipe(concat('all.js'))
+        .pipe(removeUseStrict())
         .pipe(gulp.dest('www'));
 });
 

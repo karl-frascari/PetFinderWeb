@@ -49,6 +49,7 @@
     "gulp-include-source": "0.0.5",
     "gulp-livereload": "^3.8.1",
     "gulp-nodemon": "^2.0.6",
+    "gulp-remove-use-strict": "0.0.2",
     "underscore": "^1.8.3"
   }
 }

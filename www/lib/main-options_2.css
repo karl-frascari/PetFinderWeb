@@ -3050,7 +3050,7 @@ input, textarea, select
 .ish-comments li.comment-author-admin:before,
 input[type="submit"]:hover
 {
-	background-color: #fcd14c;
+	background-color: #309eff;
 }
 
 .ish-comments .bypostauthor
@@ -3060,7 +3060,8 @@ input[type="submit"]:hover
 
 .ish-part_header .ish-row_inner:before
 {
-	border-color: #fcd14c;
+	border-color: #309eff;
+	margin-left: 12px;
 }
 
 .ish-back_to_top:hover {
@@ -3077,13 +3078,13 @@ input[type="submit"]:hover
 		.ish-part_header .ish-row {
 			background-color: #ffffff;
 
-							background-color: rgba(255, 255, 255, 1);
+							background-color: #9820f3;
 					}
 				.ish-part_header, .ish-part_header a {
-			color: #494c43;
+			color: white;
 		}
 				.ish-part_header a:hover {
-			color: #fcd14c;
+			color: #309eff;
 		}
 		
 
@@ -3093,7 +3094,7 @@ input[type="submit"]:hover
 		}
 				.ish-ph-main_nav > ul > li > a,
 		.ish-ph-main_nav > ul.ish-nt-onepage > li.menu-item-type-custom.current-menu-item > a {
-			color: #acaea9;
+			color: #ffffff;
 		}
 				.ish-ph-main_nav > ul.ish-nt-onepage > li.menu-item-type-custom.current-menu-item > a
 		.ish-ph-main_nav > ul > li > a:hover, .ish-ph-main_nav > ul > li:hover > a,
@@ -3112,7 +3113,7 @@ input[type="submit"]:hover
 		.ish-ph-main_nav > ul.ish-nt-onepage > .current_page_parent > a,
 		.ish-ph-main_nav > ul.ish-nt-onepage > .current_page_ancestor > a
 		{
-			background-color: #fcd14c;
+			background-color: #309eff;
 		}
 				.ish-ph-main_nav > ul > li > a:hover, .ish-ph-main_nav > ul > li:hover > a,
 		.ish-ph-main_nav > ul.ish-nt-regular > .current-menu-item > a,
@@ -3150,7 +3151,7 @@ input[type="submit"]:hover
 		.ish-ph-main_nav > ul.ish-nt-onepage > li > ul .current_page_parent > a,
 		.ish-ph-main_nav > ul.ish-nt-onepage > li > ul .current_page_ancestor > a
 		{
-			color: #fcd14c;
+			color: #309eff;
 		}
 		
 
@@ -3188,12 +3189,12 @@ input[type="submit"]:hover
 		}
 				.ish-part_breadcrumbs a:hover
 		{
-			color: #fcd14c;
+			color: #309eff;
 		}
 		
 
 		.ish-part_searchbar {
-			background-color: #fcd14c;
+			background-color: #309eff;
 		}
 				.ish-part_searchbar input[type="text"], .ish-ps-searchform_close {
 			color: #f9f9f9;
@@ -3208,7 +3209,7 @@ input[type="submit"]:hover
 		
 
 		.ish-sidenav {
-			background-color: #fcd14c;
+			background-color: #309eff;
 		}
 				.ish-sidenav a {
 			color: #f9f9f9;
@@ -3229,7 +3230,7 @@ input[type="submit"]:hover
 		
 
 		.ish-ph-mn-be_resp {
-			background-color: #fcd14c;
+			background-color: #309eff;
 		}
 				.ish-ph-mn-be_resp a {
 			color: #f9f9f9;
@@ -3268,7 +3269,7 @@ input[type="submit"]:hover
 		.ish-part_expandable .widget_ishyoboy-flickr-widget a.ish-button-small,
 		.ish-part_expandable .widget_ishyoboy-twitter-widget a.ish-button-small
 		{
-			color: #fcd14c;
+			color: #309eff;
 		}
 				.ish-part_expandable .widget_calendar #wp-calendar tfoot a:hover,
 		.ish-part_expandable .widget_ishyoboy-recent-portfolio-widget a.ish-button-small:hover,
@@ -3332,7 +3333,7 @@ input[type="submit"]:hover
 		.ish-main-sidebar .widget_ishyoboy-flickr-widget a.ish-button-small,
 		.ish-main-sidebar .widget_ishyoboy-twitter-widget a.ish-button-small
 		{
-			color: #fcd14c;
+			color: #309eff;
 		}
 				.ish-main-sidebar .widget_calendar #wp-calendar tfoot a:hover,
 		.ish-main-sidebar .widget_ishyoboy-recent-portfolio-widget a.ish-button-small:hover,
@@ -3400,7 +3401,7 @@ input[type="submit"]:hover
 		.ish-part_footer .widget_ishyoboy-flickr-widget a.ish-button-small,
 		.ish-part_footer .widget_ishyoboy-twitter-widget a.ish-button-small
 		{
-			color: #fcd14c;
+			color: #309eff;
 		}
 				.ish-part_footer .widget_calendar #wp-calendar tfoot a:hover,
 		.ish-part_footer .widget_ishyoboy-recent-portfolio-widget a.ish-button-small:hover,
@@ -3455,7 +3456,7 @@ input[type="submit"]:hover
 		}
 				.ish-part_legals a
 		{
-			color: #fcd14c;
+			color: #309eff;
 		}
 				.ish-part_legals a:hover
 		{
@@ -4220,7 +4221,7 @@ input[type="submit"]:hover
 
 .x
 {
-	color: #fcd14c;
+	color: #309eff;
 }
 
 .demo_store,
@@ -4233,7 +4234,7 @@ input[type="submit"]:hover
 .shipping-calculator-button,
 .wc-backward.button
 {
-	background: #fcd14c !important;
+	background: #309eff !important;
 }
 
 .place-order .button:hover,

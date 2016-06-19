@@ -1,4 +1,4 @@
-var app = angular.module('portifolio', ['ngRoute', 'ui.bootstrap', 'ngMaterial']);
+var app = angular.module('portifolio', ['ngRoute']);
 
 app.config(['$routeProvider' ,
 
